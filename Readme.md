@@ -1,0 +1,1 @@
+Repo for making improvements to quest texts in Turtle Wow. The repo is layed out by zone, and quest. In the quest subfolders, the original text will be present in one file, with a suggested revision in another file.
